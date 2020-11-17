@@ -17,7 +17,7 @@
 
 - [رزومه](https://sakineh-rahbari.github.io/Resume/)
 
-- [SOP](https://sakineh-rahbari.github.io/MySop/)
+- [SOP](https://sakineh-rahbari.github.io/sop/)
 
 ------------------
 ## Winter Semester Courses 1399/2020
