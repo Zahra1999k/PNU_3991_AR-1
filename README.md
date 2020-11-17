@@ -15,7 +15,7 @@
 -  [PNU_3991_AR](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/gh-pages/README.md)
 - [حساب گیت هاب](https://github.com/sakineh-rahbari)
 
-- [رزومه](https://sakineh-rahbari.github.io/Resume/)
+- [رزومه](https://sakineh-rahbari.github.io)
 
 - [SOP](https://sakineh-rahbari.github.io/sop/)
 
