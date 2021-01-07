@@ -19,9 +19,7 @@
 - [رزومه](https://sakineh-rahbari.github.io)
 
 - [SOP](https://sakineh-rahbari.github.io/sop/)
-- .[لاتک نظریه زبانها و ماشینها](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/113_116.pdf)
-- [لاتک روش پژوهش و رایه](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/73-75.rar)
-
+ -[نظریه زبانها و ماشینها](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/%D8%B1%D9%88%D8%B4%20%D9%BE%DA%98%D9%88%D9%87%D8%B4%20%D9%88%20%D8%A7%D8%B1%D8%A7%DB%8C%D9%87/README.md)
 ------------------
 ## Winter Semester Courses 1399/2020
 
