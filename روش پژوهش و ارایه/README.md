@@ -9,6 +9,6 @@ https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%
 ## روش پژوهش پایان نامه 
 computer assisted qualitative data analysis
 
-methods.sagepub.com/About
+http://methods.sagepub.com/About
 
 ## لاتک
