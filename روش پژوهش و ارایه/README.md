@@ -6,3 +6,9 @@ https://shahreketabonline.com/Products/Details/243874/%D8%A7%D8%B5%D9%88%D9%84_%
 
 ارائه شده در دانشگاه آزاد علوم و تحقیقات 
 
+## روش پژوهش پایان نامه 
+computer assisted qualitative data analysis
+
+methods.sagepub.com/About
+
+## لاتک
