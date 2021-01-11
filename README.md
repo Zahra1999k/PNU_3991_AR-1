@@ -53,7 +53,9 @@
 [روش_پژوهش_و_اراِِیه	1322010_02](https://github.com/sakineh-rahbari/PNU_3991_AR/tree/gh-pages/SoftwareManagement)
 <br>
 
+## ارزیابی
 
+بخش عمومی(
 --------------
 ## روز و ساعت ارائه دروس
 
