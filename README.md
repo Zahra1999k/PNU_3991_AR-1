@@ -55,7 +55,7 @@
 
 ## ارزیابی
 
-- [بخش عمومی](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
 --------------
 ## روز و ساعت ارائه دروس
 
