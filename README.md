@@ -56,6 +56,10 @@
 ## ارزیابی
 
 - [خلاصه ارزیابی بخش عمومی](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.docx)
+
+-[ارزیابی روش پژوهش و ارایی](https://github.com/sakineh-rahbari/PNU_3991_AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991.docx)
+
+-[ارزیابی نظریه زبانها و ماشینها](
 --------------
 ## روز و ساعت ارائه دروس
 
